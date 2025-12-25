@@ -1,6 +1,4 @@
-# Projeto Final - Engenharia de Software
-
-Repositório destinado ao Projeto Final da disciplina de Engenharia de Software.
+# BibliotecaNB
 
 ## Descrição do Projeto
 
